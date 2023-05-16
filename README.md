@@ -1,2 +1,2 @@
 # Probability-Project
-Tittanic Data Analysis
+Titanic Data Analysis
